@@ -1,12 +1,12 @@
-﻿﻿body{
+﻿body{
     background-image: url(bg.jpg);
     background-size:cover;
     background-repeat: no-repeat;
+    background-color: #333;
     color: white;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     line-height: 2em;
     
-
 }
 .kor{
     list-style:circle;
@@ -34,7 +34,7 @@ h2,h3{
 }
 #logo{
     width: 50%;
-    align-items: center;
+    
 }
 .kozepre{
     text-align: center;
